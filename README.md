@@ -1,2 +1,2 @@
-# STModelling
-An R Shiny application:  Interactive Analysis of Spatio-temporal Count Data
+# [STModelling](https://pqiao.shinyapps.io/STModelling/)
+A Shiny app:  Interactive Analysis of Spatio-temporal Count Data
